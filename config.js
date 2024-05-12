@@ -13,7 +13,7 @@ global.owner = [
 ]
 
 global.info = {
- nomerbot: '212605784394',
+ nomerbot: '212630114032',
  pairingNumber: '212693227969',
  nameown: 'Nour',
  nomerown: '212717457920',
